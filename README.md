@@ -1,4 +1,4 @@
-# Melanoma Detection Assignment
+# Gesture Recognition Assignment
 > In this assignment, you will build a Gesture Recognition Model. 
 
 
